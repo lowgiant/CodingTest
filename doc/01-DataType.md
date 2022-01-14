@@ -104,3 +104,12 @@
   - toLowerCase
   - 정규표현식
   - 시간복잡도: O(n) / while
+
+## 13) [숫자 문자열과 영단어](../code/NumStringAndEngWord.java)
+- 문제
+  - 0 ~ 9 까지 문자열 숫자를 숫자로 변경
+  - zero, 0으로 시작 하지는 않음
+  - 결과 값 = 2,000,000,000 이하
+- 접근법
+  - replace 문자열 치환
+  - 시간복잡도: O(n) / for
