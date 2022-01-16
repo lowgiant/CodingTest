@@ -123,3 +123,11 @@
 - 접근법
   - 나눗셈 몫 / Switch
   - 시간복잡도: O(n) / for
+
+## 15) [크레인 인형 뽑기 게임](../code/DrawingDoll.java)
+- 문제
+  - board = 5 * 5  이차원 배열 
+  - moves = 1차원 배열
+- 접근법
+  - 스택 
+  - 시간복조도: O(n<sup>2</sup>) / for * 2
