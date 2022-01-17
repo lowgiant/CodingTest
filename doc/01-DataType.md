@@ -130,4 +130,12 @@
   - moves = 1차원 배열
 - 접근법
   - 스택 
-  - 시간복조도: O(n<sup>2</sup>) / for * 2
+  - 시간복잡도: O(n<sup>2</sup>) / for * 2
+
+## 16) [회문](../code/ValidPalindrome.java)
+- 문제
+  - 문자열을 거꾸로 변경해도 같은지 확인
+- 접근법
+  - toLowerCase
+  - 정규표현식
+  - StringBuffer /  reverse
