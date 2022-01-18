@@ -139,3 +139,10 @@
   - toLowerCase
   - 정규표현식
   - StringBuffer /  reverse
+
+## 17) [문자열 뒤집기](../code/ReverseString.java)
+- 문제
+  - 배열에 있는 문자를 뒤집고 배열에 넣기
+- 접근법
+  - StringBuffer reverse
+  - toCharArray
