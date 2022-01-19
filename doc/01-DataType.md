@@ -146,3 +146,14 @@
 - 접근법
   - StringBuffer reverse
   - toCharArray
+
+
+## 18) [로그파일 재정렬](../code/ReorderLogFiles.java)
+- 문제
+  - 로그의 가장 앞 부분 `식별자`
+  - 문자로 구성된 로그가 숫자 로그보다 앞에 옴
+  - 식별자는 순서 영향을 끼치지 않지만, 문자가 동일할 경우 식별자 순으로 함
+  - 숫자 로그는 입력 순서대로
+- 접근법
+  - split
+  - Arrays sort
