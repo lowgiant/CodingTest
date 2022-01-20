@@ -147,7 +147,6 @@
   - StringBuffer reverse
   - toCharArray
 
-
 ## 18) [로그파일 재정렬](../code/ReorderLogFiles.java)
 - 문제
   - 로그의 가장 앞 부분 `식별자`
@@ -157,3 +156,11 @@
 - 접근법
   - split
   - Arrays sort
+
+## 19) [가장 흔한 단어](../code/MostCommonWord.java)
+- 문제
+  - 문장에서 가장 흔한 단어를 출력
+  - 단, 금지단어를 제외한 값 출력
+- 접근법
+  - hash map
+  - 시간복잡도: O(n) / for
