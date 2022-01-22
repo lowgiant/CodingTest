@@ -173,3 +173,9 @@
   - Sort로 정렬해서 같은 단어 찾음
   - Hash map을 통해 분류 및 저장
   - 시간복잡도: O(n) / for
+
+## 21) [가장 긴 팰린드롬 부분 문자열](../code/LongestPalindromeSubstring.java)
+- 문제
+  - 문장에서 가장 긴 팰린드롬 찾기
+- 접근법
+  - 시간복잡도: O(n) / for and while
