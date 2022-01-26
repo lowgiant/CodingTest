@@ -11,7 +11,7 @@
 - 접근법
   - 재귀 구조로 연결
 
-## 3) [역순 연결 리스트](../code/reverseLinkedList.java)
+## 3) [역순 연결 리스트](../code/ReverseLinkedList.java)
 - 문제
   - 연결 리스트 뒤집기
 - 접근법
