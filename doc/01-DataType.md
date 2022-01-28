@@ -201,3 +201,9 @@
     - signs의 값이 false 뺄셈
 - 접근법
   - 시간복잡도: O(n) / for
+
+## 24) [내적](../code/DotProduct.java)
+- 문제
+  - a[0]*b[0] + a[1]*b[1] + ... + a[n-1]*b[n-1]
+- 접근법
+  - 시간복잡도: O(n) / for
