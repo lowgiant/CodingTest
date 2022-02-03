@@ -245,3 +245,12 @@
   - 나머지 1이 된 가장 작은 자연수 찾기
 - 접근법
   - 시간복잡도: O(n) / for
+
+## 30) [부족한 금액 계산하기](../code/CalculateTheShortfall.java)
+- 문제
+  - price 이용료
+  - count 요금이 price에 n배 증가
+  - money 가지고 있는 돈
+  - result 부족한 금액을 넘기기
+- 접근법
+  - 산술연산
