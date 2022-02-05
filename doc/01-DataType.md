@@ -261,3 +261,12 @@
   - 짝수: 두글자를 반환
 - 접근법
   - subString 글자 반환
+
+## 32) [나누어 떨어지는 숫자 배열](../code/DivisibleArrayOfNumbers.java)
+- 문제
+  - arr: 자연수들의 배열
+  - divisor: 나눌 수
+  - arr 안에 있는 자연수 중 divisor로 나눠 0인 값을 넣기
+  - 나누어 떨어지는 값이 없으면 -1 입력
+- 문제
+  - 스트림
