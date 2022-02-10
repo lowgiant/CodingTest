@@ -301,3 +301,9 @@
   - s 길이가 1이상, 9 이하인 문자열
 - 접근법
   - 정규표현식
+
+## 37) [서울에서 김서방 찾기](../code/FindKimInSeoul.java)
+- 문제
+  - String[] 안에 있는 값 중 "Kim" 인덱스 찾기
+- 접근법
+  - Arrays.asList().indexOf() 사용
