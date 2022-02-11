@@ -307,3 +307,9 @@
   - String[] 안에 있는 값 중 "Kim" 인덱스 찾기
 - 접근법
   - Arrays.asList().indexOf() 사용
+
+## 38) [소수 찾기](../code/FindDecimals.java)
+- 문제
+  - 주어진 n의 값의 아랫수들의 소수의 갯수 찾기
+- 접근법
+  - 시간복잡도: O(n<sup>2</sup>) / for
