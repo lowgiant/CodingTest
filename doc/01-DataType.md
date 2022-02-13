@@ -319,3 +319,9 @@
   - count 갯수만큼 수박수~ 등 만듬
 - 접근법
   - replace 등 사용
+
+## 40) [문자열을 정수로 바꾸기](../code/StrChangeInt.java)
+- 문제
+  - 문자열을 정수로 바꾸기
+- 접근법
+  - Integer.parseInt
