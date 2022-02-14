@@ -325,3 +325,10 @@
   - 문자열을 정수로 바꾸기
 - 접근법
   - Integer.parseInt
+
+## 41) [약수의 합](../code/SumDivisor.java)
+- 문제
+  - 정수 num
+  - 약수를 구하고 더한 값 return
+- 접근법
+  - 시간복잡도: O(n) / for
